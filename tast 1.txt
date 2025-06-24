@@ -1,0 +1,41 @@
+Python 3.13.3 (tags/v3.13.3:6280bb5, Apr  8 2025, 14:47:33) [MSC v.1943 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+>>> #First number: 5
+>>> #Second number: 10
+>>>
+>>> 5+10
+15
+>>>
+>>> 5-10
+-5
+>>>
+>>> 5*10
+50
+>>>
+>>> 5/10
+0.5
+>>>
+>>> input('Addition:')
+Addition:15
+'15'
+>>>
+>>> input('Substraction:')
+Substraction:-5
+'-5'
+>>>
+>>> input('Multiplication:')
+Multiplication:50
+'50'
+>>>
+>>> input('Division:')
+Division:0.5
+'0.5'
+>>>
+>>> print('Addition: \t15 \nSubstraction: \t-5 \nMultiplication: \t50 \nDivision: \t0.5')
+Addition:       15
+Substraction:   -5
+Multiplication:         50
+Division:       0.5
+>>>
+>>>
