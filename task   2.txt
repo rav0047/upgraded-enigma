@@ -1,0 +1,20 @@
+Python 3.13.3 (tags/v3.13.3:6280bb5, Apr  8 2025, 14:47:33) [MSC v.1943 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+>>> #First name: Ravi
+>>> #Last name: Singh
+>>>
+>>> input('First name: ')
+First name: Ravi
+'Ravi'
+>>>
+>>> input('Last name: ')
+Last name: Singh
+'Singh'
+>>>
+>>> "Ravi " + "Singh"
+'Ravi Singh'
+>>>
+>>> print('Hello, Ravi Singh! Welcome to the Python program.')
+Hello, Ravi Singh! Welcome to the Python program.
+>>>
